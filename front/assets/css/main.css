@@ -3946,3 +3946,8 @@ input[type="submit"].primary {
     color: #ffffff !important;
     border-color: #f44336 !important;
 }
+
+.logo {
+	width: 300px;
+	height: 200px;
+}
